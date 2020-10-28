@@ -9,3 +9,7 @@
 .badge {
     font-size: 100% !important;
 }
+
+.carousel-caption {
+    background-color: rgb(18,78,120, 0.5);
+}
